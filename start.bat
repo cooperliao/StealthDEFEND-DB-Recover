@@ -1,0 +1,9 @@
+net start postgresql-x64-10
+net start SBTSDAction
+net start SBTSDAD
+net start SBTSDEMAIL
+net start SBTSDEVENT
+net start SBTSDJOB
+net start SBTSDLICENSE
+net start SBTSDSIEM
+net start SBTSDWEB
